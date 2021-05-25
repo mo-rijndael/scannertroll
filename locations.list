@@ -1,0 +1,7 @@
+/.git
+/.env
+/console
+/login
+/api
+/owa
+/vendor
